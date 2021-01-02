@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">TITLE</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu mollis neque. Praesent non nisl facilisis, ultrices leo vitae, dictum felis. Morbi iaculis lobortis pulvinar. Donec imperdiet, lacus sit amet consectetur congue, metus leo vehicula lorem, eu vestibulum justo libero vel purus. Duis mattis lobortis leo, nec pellentesque massa laoreet at.</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="delete">DELETE</string>
+    <string name="note">Note</string>
+</resources>
